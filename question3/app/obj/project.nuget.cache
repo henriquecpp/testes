@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zw2CBKp+UFPFdsSmeUItkKmTZLIN9DNUDoI5yOhoXsJSxldzzZiy//lIWdtGNRgGmVR+xrVt5vPePPFUmzTfKg==",
+  "success": true,
+  "projectFilePath": "/home/henrique-cpp/Downloads/testes/question3/app/app.csproj",
+  "expectedPackageFiles": [
+    "/home/henrique-cpp/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
